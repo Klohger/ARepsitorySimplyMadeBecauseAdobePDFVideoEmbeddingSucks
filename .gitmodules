@@ -1,0 +1,6 @@
+[submodule "PlayMotor"]
+	path = PlayMotor
+	url = https://github.com/TE4-HBG/PlayMotor
+[submodule "Team-1---Projekt-4"]
+	path = Team-1---Projekt-4
+	url = https://github.com/TE4-HBG/Team-1---Projekt-4

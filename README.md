@@ -1,1 +1,1 @@
-https://github.com/Klohger/ARepsitorySimplyMadeBecauseAdobePDFVideoEmbeddingSucks/assets/39872370/6d347cff-61ce-4ef9-b252-8a14ed4d18cf
+https://github.com/Klohger/ARepsitorySimplyMadeBecauseAdobePDFVideoEmbeddingSucks/assets/39872370/83fd4a4d-c39f-4883-ab22-713dd8feb0b9
